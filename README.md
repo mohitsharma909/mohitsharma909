@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mohit sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alg="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alg="coding" width="400" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsharma909&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsharma909" /> </p>
 
