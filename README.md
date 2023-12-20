@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mohit sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alg="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/97f8c592-d092-4f7f-8c2c-81ef6a8cca0e/dfrx5e0-89e454a5-3ab2-42d3-8491-92c5056ff68e.jpg/v1/fill/w_730,h_1095,q_70,strp/anime_kid_programming_by_eranium1_dfrx5e0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzA3MiIsInBhdGgiOiJcL2ZcLzk3ZjhjNTkyLWQwOTItNGY3Zi04YzJjLTgxZWY2YThjY2EwZVwvZGZyeDVlMC04OWU0NTRhNS0zYWIyLTQyZDMtODQ5MS05MmM1MDU2ZmY2OGUuanBnIiwid2lkdGgiOiI8PTIwNDgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mmmjpv-fJa7Qmr00p-nZU3R9laMF5O6FQ3Dn6rHgXv0">
+<img align="right" alg="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsharma909&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsharma909" /> </p>
 
