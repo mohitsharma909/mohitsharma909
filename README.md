@@ -10,13 +10,13 @@
 
 <img align="right" alg="coding" width="400" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg">
 
-- 🔭 I’m currently working on **data science**
+- 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **ethical hacking**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **artificial intelligence**
+- 👯 I’m looking to collaborate on **C++**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **C++**
 
 - 💬 Ask me about **c++**
 
